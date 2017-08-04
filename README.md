@@ -1,0 +1,2 @@
+# LTServer
+Libre Trickster Server
